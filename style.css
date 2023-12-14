@@ -92,10 +92,6 @@ section.porque-nos>.center>h2 {
   width: 100%;
 }
 
-section.porque-nos>.center {
-  width: 1280px;
-}
-
 section.porque-nos>.center>p {
   font-size: 14px;
   text-align: center;
@@ -160,6 +156,7 @@ section.cta a {
 }
 
 section.beneficios {
+  width: 100%;
   padding: 50px 0;
 }
 
@@ -190,7 +187,7 @@ section.beneficios {
 }
 
 .img-beneficios {
-  width: 60%;
+  width: 50%;
 }
 
 .img-beneficios img {
