@@ -56,3 +56,15 @@ section.main {
 .itens-menu a.contact-btn:hover {
   border: 0;
 }
+
+.mockup {
+  display: block;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding-top: 90px;
+}
+
+.mockup h1 {
+  font-size: 50px;
+}
